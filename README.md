@@ -2,23 +2,6 @@
 
 An action-packed 3D first-person shooter (FPS) survival game built in Python using the **Ursina Engine**. Battle against waves of iconic creatures (Creepers, Skeletons, Endermen, Wardens, and Withers) in a modular codebase.
 
----
-
-## 📸 Screenshots
-
-### Main Menu
-![Main Menu](Capturas/Menu.png)
-
-### Gameplay - Round 1
-![Gameplay Round 1](Capturas/Ronda%201.png)
-
-### Ammo Box Collection
-![Ammo Boxes](Capturas/Municiones.png)
-
-### Hard Mode Chaos
-![Hard Mode](Capturas/Ronda%20dificil.png)
-
----
 
 ## 🚀 Installation & Requirements
 
@@ -81,3 +64,20 @@ SHOOTER-3D/
 ├── .gitignore            # Git exclusion rules
 └── requirements.txt      # Python dependencies list
 ```
+---
+
+## 📸 Screenshots
+
+### Main Menu
+![Main Menu](Capturas/Menu.png)
+
+### Gameplay - Round 1
+![Gameplay Round 1](Capturas/Ronda%201.png)
+
+### Ammo Box Collection
+![Ammo Boxes](Capturas/Municiones.png)
+
+### Hard Mode Chaos
+![Hard Mode](Capturas/Ronda%20dificil.png)
+
+---
